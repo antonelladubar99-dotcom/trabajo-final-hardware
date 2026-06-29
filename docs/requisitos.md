@@ -1,42 +1,26 @@
 # Relevamiento de requisitos
 
-## Programas analizados
+## Tabla comparativa de software
 
-### Autodesk Fusion
-- Sistema operativo: Windows 10/11 (64-bit), macOS
-- CPU recomendada: Intel i7 / Ryzen 7 o superior
-- RAM: 16 GB mínimo (32 GB recomendado)
-- Almacenamiento: 5 GB libres o más (SSD recomendado)
-- GPU: Compatible con DirectX 11 o superior
-
----
-
-### Proteus Design Suite
-- Sistema operativo: Windows 10/11 (64-bit)
-- CPU recomendada: Intel i5 o superior
-- RAM: 8 GB mínimo (16 GB recomendado)
-- Almacenamiento: 3 GB libres
-- GPU: No requerida (básica integrada alcanza)
-
----
-
-### Adobe Acrobat Reader
-- Sistema operativo: Windows / macOS
-- CPU: Cualquiera moderno
-- RAM: 2 GB mínimo
-- Almacenamiento: 1 GB
-- GPU: No requerida
-
----
-
-### Visual Studio Code
-- Sistema operativo: Windows / Linux / macOS
-- CPU: Intel i3 o superior
-- RAM: 8 GB recomendado
-- Almacenamiento: 500 MB
-- GPU: No requerida
+| Software | Sistema Operativo | Procesador (CPU) | Memoria RAM | Almacenamiento | GPU |
+|----------|------------------|------------------|--------------|----------------|-----|
+| Autodesk Fusion | Windows 11 / macOS | 8 núcleos o más (>3 GHz) | 16 GB o más | SSD (8-10 GB libres) | Dedicada (4 GB VRAM o +) |
+| Proteus Design Suite | Windows 10 / 11 (64-bit) | Intel i5 / Ryzen 5 (>2.5 GHz) | 8 a 16 GB | SSD o HDD | Compatible OpenGL 2.0+ |
+| Visual Studio Code | Windows / Linux / macOS | Multinúcleo (>1.6 GHz) | 4 a 8 GB | < 500 MB libres | No requiere |
+| Adobe Acrobat Reader | Windows / macOS | Procesador base (>1.5 GHz) | 2 a 4 GB | Mínimo | No requiere |
 
 ---
 
 ## Sistema operativo elegido
-Se selecciona **Windows 11 64-bit**, debido a su compatibilidad total con todos los programas utilizados y mejor soporte para herramientas de ingeniería.
+
+Se selecciona **Windows 11 Pro de 64 bits** como sistema operativo definitivo para la estación de ingeniería.
+
+---
+
+## Justificación técnica
+
+- **Compatibilidad nativa:** Proteus Design Suite está optimizado para Windows, evitando problemas de emulación o pérdida de rendimiento.
+- **Aprovechamiento del hardware:** Windows 11 gestiona eficientemente procesadores multinúcleo y GPUs dedicadas, esenciales para Autodesk Fusion.
+- **Estabilidad profesional:** Garantiza compatibilidad con drivers oficiales y herramientas de desarrollo como Visual Studio Code.
+
+
