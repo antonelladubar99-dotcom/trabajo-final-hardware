@@ -1,24 +1,29 @@
+# Requisitos
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Requisitos</title>
-</head>
-<body>
+## Trabajo Integrador Final - Hardware
 
-<h1>Requisitos</h1>
+### Objetivo
+Diseñar una estación de trabajo para ingeniería capaz de ejecutar software técnico de alto rendimiento.
 
-<p>Trabajo Integrador Final - Hardware</p>
+---
 
-<p>Se requiere una estación de trabajo para ingeniería capaz de ejecutar:</p>
+## Programas requeridos
 
-<ul>
-  <li>Autodesk Fusion</li>
-  <li>Proteus Design Suite</li>
-  <li>Adobe Acrobat Reader</li>
-  <li>Visual Studio Code</li>
-</ul>
+- Autodesk Fusion
+- Proteus Design Suite
+- Adobe Acrobat Reader
+- Visual Studio Code
 
-</body>
-</html>
+---
+
+## Requerimientos generales
+
+- Procesador de gama media/alta
+- Memoria RAM mínima recomendada: 16GB (ideal 32GB)
+- Almacenamiento SSD
+- Placa de video compatible con diseño y modelado 3D
+
+---
+
+## Conclusión del módulo
+El sistema debe garantizar estabilidad y rendimiento en tareas de ingeniería y diseño.
