@@ -1,26 +1,24 @@
-# Relevamiento de requisitos
 
-## Tabla comparativa de software
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Requisitos</title>
+</head>
+<body>
 
-| Software | Sistema Operativo | Procesador (CPU) | Memoria RAM | Almacenamiento | GPU |
-|----------|------------------|------------------|--------------|----------------|-----|
-| Autodesk Fusion | Windows 11 / macOS | 8 núcleos o más (>3 GHz) | 16 GB o más | SSD (8-10 GB libres) | Dedicada (4 GB VRAM o +) |
-| Proteus Design Suite | Windows 10 / 11 (64-bit) | Intel i5 / Ryzen 5 (>2.5 GHz) | 8 a 16 GB | SSD o HDD | Compatible OpenGL 2.0+ |
-| Visual Studio Code | Windows / Linux / macOS | Multinúcleo (>1.6 GHz) | 4 a 8 GB | < 500 MB libres | No requiere |
-| Adobe Acrobat Reader | Windows / macOS | Procesador base (>1.5 GHz) | 2 a 4 GB | Mínimo | No requiere |
+<h1>Requisitos</h1>
 
----
+<p>Trabajo Integrador Final - Hardware</p>
 
-## Sistema operativo elegido
+<p>Se requiere una estación de trabajo para ingeniería capaz de ejecutar:</p>
 
-Se selecciona **Windows 11 Pro de 64 bits** como sistema operativo definitivo para la estación de ingeniería.
+<ul>
+  <li>Autodesk Fusion</li>
+  <li>Proteus Design Suite</li>
+  <li>Adobe Acrobat Reader</li>
+  <li>Visual Studio Code</li>
+</ul>
 
----
-
-## Justificación técnica
-
-- **Compatibilidad nativa:** Proteus Design Suite está optimizado para Windows, evitando problemas de emulación o pérdida de rendimiento.
-- **Aprovechamiento del hardware:** Windows 11 gestiona eficientemente procesadores multinúcleo y GPUs dedicadas, esenciales para Autodesk Fusion.
-- **Estabilidad profesional:** Garantiza compatibilidad con drivers oficiales y herramientas de desarrollo como Visual Studio Code.
-
-
+</body>
+</html>
